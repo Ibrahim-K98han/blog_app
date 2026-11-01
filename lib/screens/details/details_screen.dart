@@ -81,7 +81,7 @@ class DetailsScreen extends StatelessWidget {
 
           Text(
             post.title ?? '',
-            style: const TextStyle(
+            style: TextStyle(
               fontSize: 23,
               height: 1.4,
               fontWeight: FontWeight.bold,
